@@ -8,8 +8,8 @@ website:
     # background: "#1c4982"
     pinned: true
     left:
-      - text: Project
-        href: marchmadnessproject.qmd
+      - text: March Madness Project
+        href: marchmadnessproject.html
       - text: Data Analysis
         menu: 
           - text: Beer markets analysis
