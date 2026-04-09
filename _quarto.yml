@@ -9,15 +9,15 @@ website:
     pinned: true
     left:
       - text: Project
-        href: project/danl-proj.qmd
+        href: marchmadnessproject.qmd
       - text: Data Analysis
         menu: 
-          - text: Data Visualization with `ggplot`
-            href: notes/danl-ggplot.qmd
-          - text: Data Transformation with `dplyr`
-            href: notes/danl-dplyr.qmd
-      - text: Blog
-        href: blog-listing.qmd
+          - text: Beer markets analysis
+            href: beer_markets.qmd
+          - text: Stock ESG analysis with python
+            href: danl_210_ZALEN_AARON_stock_ESG.qmd
+     # - text: Blog
+     #   href: blog-listing.qmd
       
             
   page-footer: 
