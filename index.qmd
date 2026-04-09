@@ -25,7 +25,3 @@ about:
 ## Education
 
 State University of New York at Geneseo \| Geneseo, NY <br> B.S. in Data Analytics \| Aug 2022 - May 2026 <br>
-
-## Experience
-
-Starbucks Analytics \| Data Analyst Intern \| May 2025 - Aug 2025
