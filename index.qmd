@@ -9,17 +9,17 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: www.linkedin.com/in/aaron-zalen22
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/1Aaronz/1Aaronz
     - icon: file-earmark-pdf
       text: Resumé
-      href: resume-example.pdf
+      href: Resume.docx (10).pdf
       target: _blank
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:AaronZalen222@gmail.com
 ---
 
 

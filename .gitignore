@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.Rproj
 *.Rproj.user
 *.Rhistory
@@ -7,3 +8,9 @@
 .Rproj.user
 
 **/*.quarto_ipynb
+=======
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+>>>>>>> 6a6a4b55a2791a7c14f49aa420332a6db5bfc0f3
