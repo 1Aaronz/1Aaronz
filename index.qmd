@@ -22,11 +22,9 @@ about:
       href: mailto:AaronZalen222@gmail.com
 ---
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
-
 ## Education
 
-State University of New York at Geneseo \| Geneseo, NY <br> B.S. in Data Analytics \| Aug 2023 - May 2027 <br> Minor in Economics
+State University of New York at Geneseo \| Geneseo, NY <br> B.S. in Data Analytics \| Aug 2022 - May 2026 <br> =
 
 ## Experience
 
