@@ -15,7 +15,7 @@ about:
       href: https://github.com/1Aaronz/1Aaronz
     - icon: file-earmark-pdf
       text: Resumé
-      href: Resume.docx (10).pdf
+      href: Resume.pdf
       target: _blank
     - icon: mailbox
       text: Email
