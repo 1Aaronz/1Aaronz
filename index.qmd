@@ -15,7 +15,7 @@ about:
       href: https://github.com/1Aaronz/1Aaronz
     - icon: file-earmark-pdf
       text: Resumé
-      href: "./Resume.pdf"
+      href: Resume.pdf
       target: _blank
     - icon: mailbox
       text: Email
@@ -24,7 +24,7 @@ about:
 
 ## Education
 
-State University of New York at Geneseo \| Geneseo, NY <br> B.S. in Data Analytics \| Aug 2022 - May 2026 <br> =
+State University of New York at Geneseo \| Geneseo, NY <br> B.S. in Data Analytics \| Aug 2022 - May 2026 <br>
 
 ## Experience
 
