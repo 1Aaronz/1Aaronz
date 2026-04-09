@@ -26,7 +26,7 @@ format:
     highlight-style: atom-one
 ---
 
-## This page under construction! Here's a snippet of the code:
+## This page under construction! Here's a snippet of the project code:
 
 ```{text}
 

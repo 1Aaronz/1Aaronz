@@ -1,6 +1,5 @@
 project: 
   type: website
-  output-dir: "." 
 
 website:
   title: "Aaron Zalen"
@@ -9,7 +8,7 @@ website:
     pinned: true
     left:
       - text: March Madness Project
-        href: marchmadnessproject.html
+        href: project/marchmadnessproject.qmd
       - text: Data Analysis
         menu: 
           - text: Beer markets analysis
